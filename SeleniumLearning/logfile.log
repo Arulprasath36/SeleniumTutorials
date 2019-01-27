@@ -1,0 +1,4 @@
+2019-01-20 17:10:14,932 INFO  [Log4jXmlConfigurator] This is an info 
+2019-01-20 17:10:14,933 WARN  [Log4jXmlConfigurator] This is a warning 
+2019-01-20 17:10:14,933 ERROR [Log4jXmlConfigurator] This is an error 
+2019-01-20 17:10:14,933 FATAL [Log4jXmlConfigurator] This is a fatal message 
